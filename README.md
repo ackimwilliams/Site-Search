@@ -1,5 +1,5 @@
 # Site-Searcher
-##Notes##
+## Notes
 
 All packages were created from scratch: Fetcher package for fetching websites and the main package.
 
