@@ -1,7 +1,7 @@
 # Site-Searcher
 ## Notes
 
-All packages were created from scratch: Fetcher package for fetching websites and the main package.
+Fetcher package for fetching websites and the main package.
 
 Noteworthy:
 - some urls took unusually long to respond to requests and so a *60 sec timeout was created to ignore these. *
