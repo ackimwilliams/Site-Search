@@ -10,6 +10,7 @@ Tech debt:
 - There are a few `@todo:` comments throughout which mentions updates/improvements such as logging, creating multiple error types, etc.
 - Replacing the rudimentary parser function with a tokenizer
 - Add activity logging using `https://golang.org/pkg/log/`
+- Improve test coverage
 
 
 Command line output:
